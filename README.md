@@ -56,7 +56,7 @@ $('.summernote').summernote({
 });
 ```
 
-See defaults [here](summernote-cleaner/blob/master/summernote-cleaner.js#L23)
+See defaults [here](summernote-cleaner.js#L23)
 
 #### 4. Check out our other Summernote Plugins via our main Github page.
 - [Diemen Design](https://github.com/DiemenDesign/)
