@@ -45,7 +45,6 @@
        options = context.options,
           lang = options.langInfo;
       options.cleaner = $.extend({}, $.summernote.options.cleaner, options.cleaner);
-      console.warn('comm', options.cleaner);
       var cleanText = function (txt, nlO) {
         var out = txt;
         if (!options.cleaner.keepClasses) {
